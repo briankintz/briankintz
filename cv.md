@@ -62,6 +62,11 @@ Graduated summa cum laude from the International Engineering Program.
   * React, Next.js
 * Consulting & Project Communication
 
+## Lanugages
+
+* English - Native
+* German - Fluent
+
 ## Side Quests
 
 * Avid Home Cook
