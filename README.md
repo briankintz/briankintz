@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there! 👋
+
+I'm Brian — a cloud architect and DevOps engineer living in Germany
+
+Check out my CV [here](https://github.com/briankintz/briankintz/blob/main/cv.md), or head to my website for a more fun version:
+
+→ <https://briankintz.com>
+
+Have a great day!
 
 <!--
 **briankintz/briankintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
