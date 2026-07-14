@@ -23,7 +23,7 @@ Strong communicator who excels at bridging the gaps between stakeholders/managem
 
 *Cloud Software Architect*
 
-* Led the technical expansion of an AI app with >10M users to a multi-platform architecture, including redesign of user and subscription management along with storage backend
+* Led the technical expansion of an AI app with 10M+ users to a multi-platform architecture, including redesign of user and subscription management along with storage backend
 * Oversaw and supported development team creating a next-gen AI chat web application
 
 ### 09.2012 - 12.2021: IAV GmbH
