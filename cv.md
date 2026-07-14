@@ -1,10 +1,12 @@
 # Brian Kintz
 
-### Senior Cloud Solutions Architect @ TEQWERK GmbH
+### Senior Cloud & AI Solutions Architect @ TEQWERK GmbH
 
 ## Profile
 
-Seasoned cloud architect with over 6 years of experience in planning and managing medium to enterprise scale cloud deployments, supported by a 15+ year diverse background in DevOps and software engineering. Senior-level consultant for Azure and Google Cloud, well-versed in guiding dynamic projects though stategic, implementation and optimization phases with an eye for detail and sustainable design. Strong communicator who excels at bridging the gaps between stakeholders/management and dev/ops teams. Secondary 15+ years in web and operations/automation software development in both developer and lead/management roles.
+Seasoned cloud architect with over 8 years of experience in planning and managing medium to enterprise scale cloud deployments, supported by a 15+ year diverse background in DevOps and software engineering. Senior-level consultant for Azure and Google Clouds as well as AI-native software eingineering, well-versed in guiding dynamic projects though stategic, implementation and optimization phases with an eye for detail and sustainable design. 
+
+Strong communicator who excels at bridging the gaps between stakeholders/management and dev/ops teams. Secondary 15+ years in web and operations/automation software development in both developer and lead/management roles.
 
 ## Experience
 
@@ -17,14 +19,14 @@ Seasoned cloud architect with over 6 years of experience in planning and managin
 * Led the web infrastructure migration of multiple global online ecommerce and financial properties to modern DNS and CDN solutions, reducing response times by up to 95% globally while increasing resilience and mitigating security risks.
 * Guided 15+ medium to large scale customers through diverse cloud adoption and refinement projects
 
-### 01.2025 - Present: tappz GmbH
+### 01.2025 - 08.2025: tappz GmbH
 
 *Cloud Software Architect*
 
 * Led the technical expansion of an AI app with >10M users to a multi-platform architecture, including redesign of user and subscription management along with storage backend
 * Oversaw and supported development team creating a next-gen AI chat web application
 
-### 09.2021 - 12.2021: IAV GmbH
+### 09.2012 - 12.2021: IAV GmbH
 
 *Lead DevOps Engineer // Software Engineer*
 
@@ -54,21 +56,25 @@ Graduated summa cum laude from the International Engineering Program.
 ## Skills
 
 * Public & Hybrid Cloud Infrastructure & Architecture
-* Cloud-native Software Engineering
+* Cloud- and AI-native Software Engineering
 * Kubernetes & Docker
 * DevOps Toolchains (GitHub Actions, GitLab)
 * Software Development & Programming
-  * TS/JS, C#, Go
-  * React, Next.js
-* Consulting & Project Communication
+  * TS, C#, Go
+  * React & Next.js, Svelte, Astro
+* Modern Web Infrastructure
+  * Serverless Compute & Databases
+  * CDN, WAF, SEO
+* High-level Consulting & Project Communication
 
 ## Lanugages
 
 * English - Native
 * German - Fluent
+* Bavarian - basst scho.
 
 ## Side Quests
 
 * Avid Home Cook
 * Ski Instructor
-* Former Emergency Medical Technician and Medical Shift Supervisor
+* Volunteer Firefighter, Former Emergency Medical Technician and Shift Supervisor
