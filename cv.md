@@ -12,12 +12,13 @@ Strong communicator who excels at bridging the gaps between stakeholders/managem
 
 ### 01.2022 - Present: TEQWERK GmbH
 
-*Senior Cloud Solutions Architect*
+*Senior Cloud & AI Solutions Architect*
 
-* Served as lead cloud architect for a global, enterprise-scale manufacturing analytics platform, guiding >10x platform growth and modernization/replatforming efforts while controlling costs and future sustainability and security aspects.
-* Designed and implemented the migration of a legacy SaaS infrastructure to a Kubernetes-based cloud native architecture, resulting in lower infrastructure costs, simplified maintenance effort and a reduction of new customer onboarding time from days to seconds.
-* Led the web infrastructure migration of multiple global online ecommerce and financial properties to modern DNS and CDN solutions, reducing response times by up to 95% globally while increasing resilience and mitigating security risks.
-* Guided 15+ medium to large scale customers through diverse cloud adoption and refinement projects
+* Served as lead cloud architect for a global, enterprise-scale manufacturing analytics platform, guiding >15x platform growth and modernization/replatforming efforts while controlling costs and future sustainability and security aspects.
+* Analyzed and roadmapped the evolution of a national non-profit's hybrid infrastructure landscape to empower individual development teams while recovering and structuring core platform-level operational responsibilities.
+* Designed and implemented the migration of a legacy SaaS platform to a Kubernetes-based cloud native architecture, resulting in lower infrastructure costs, simplified maintenance and release cycle effort and a reduction of new customer onboarding time from days to seconds.
+* Led the web infrastructure migration of multiple global online ecommerce and financial properties to modern distributed DNS and CDN solutions, reducing response times by up to 95% worldwide while increasing resilience and mitigating security multifaceted risks.
+* Guided 20+ medium to large scale customers through diverse cloud adoption and refinement projects
 
 ### 01.2025 - 08.2025: tappz GmbH
 
@@ -53,7 +54,14 @@ Graduated summa cum laude from the International Engineering Program.
 * Microsoft Azure Cloud Solutions Architecture Expert
 * Google Professional Cloud Architect
 
-## Skills
+## Soft Skills
+
+* Technical & Strategic Consulting
+* Leadership-level Project Communication
+* Project and Budget Management
+* Cultural & Technical Leadership
+
+## Technical Skills
 
 * Public & Hybrid Cloud Infrastructure & Architecture
 * Cloud- and AI-native Software Engineering
@@ -65,7 +73,6 @@ Graduated summa cum laude from the International Engineering Program.
 * Modern Web Infrastructure
   * Serverless Compute & Databases
   * CDN, WAF, SEO
-* High-level Consulting & Project Communication
 
 ## Lanugages
 
